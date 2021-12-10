@@ -1,0 +1,103 @@
+
+body{
+    background-color: #FFFFFF;
+}
+
+h2, h3{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar{
+    padding: 0 0 1.5rem;
+    background-color: #58555A;
+}
+.nav-item{
+    margin-top: 12px;
+    padding: 0 20px;
+
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat', serif;
+    font-weight: 300;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+
+.search{
+    padding-top: 15px;
+}
+
+
+.offers{
+
+  background: #DCD7D5;
+  width: 95%;
+    
+
+}
+
+.first-img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 1.5rem;
+
+}
+
+.text{
+    padding-top: 1.5rem;
+    display: inline-block;
+}
+
+
+.shop-link{
+    margin-right: 20%;
+}
+
+
+.second-section{
+    margin-top: 3rem;
+    padding-bottom: 3rem;
+    
+    
+}
+
+img{
+    border: 0px;
+}
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #7F7F7F;
+    
+}
+
+#link{
+    
+    text-align: center;
+    color: black;
+}
+
+.slide-img{
+    width: 500px;
+    height: 300px;
+}
+
+.asus3080{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
